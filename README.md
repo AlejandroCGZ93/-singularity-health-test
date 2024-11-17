@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Singularity Health Test
 
 Este es el repositorio de la prueba técnica **Singularity Health**. La aplicación está desarrollada utilizando **React**, **Vite** y otras herramientas modernas como **TailwindCSS**, **Radix UI**, y **Redux**. Este documento proporciona instrucciones para ejecutar la aplicación y un resumen de las herramientas utilizadas.
@@ -104,3 +105,6 @@ public/
 ```
 
 ---
+=======
+# -singularity-health-test
+>>>>>>> 1e5aa423029145bbc0b7b7aedece935eb3418bb2
